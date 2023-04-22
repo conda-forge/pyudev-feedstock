@@ -1,11 +1,11 @@
-About pyudev
-============
+About pyudev-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyudev-feedstock/blob/main/LICENSE.txt)
 
 Home: http://pyudev.readthedocs.org/
 
 Package license: LGPL-2.1-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyudev-feedstock/blob/main/LICENSE.txt)
 
 Summary: A libudev binding
 
