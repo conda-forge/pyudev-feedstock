@@ -1,5 +1,5 @@
 {% set name = "pyudev" %}
-{% set version = "0.24.1" %}
+{% set version = "0.24.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pyudev-{{ version }}.tar.gz
-  sha256: 75e54d37218f5ac45b0da1f0fd9cc5e526a3cac3ef1cfad410cf7ab338b01471
+  sha256: 2e945427a21674893bb97632401db62139d91cea1ee96137cc7b07ad22198fc7
 
 build:
   noarch: python
